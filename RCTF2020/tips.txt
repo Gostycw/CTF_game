@@ -1,0 +1,4 @@
+The flag format is  "RCTF{xxxxxxxxxx}"
+
+PS：All letters are lowercase
+
